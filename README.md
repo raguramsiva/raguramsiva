@@ -34,11 +34,7 @@ I'm a software engineer based in Toronto, Canada.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-<!-- Optional: GitHub Stats -->
-<!--
 ### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=raguramsiva&theme=default)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=raguramsiva&show_icons=true&theme=default)
--->
+---

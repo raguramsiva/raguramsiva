@@ -42,8 +42,6 @@ I'm a software engineer based in Toronto, Canada.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
----
-
 ### 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=raguramsiva&theme=default)
 
